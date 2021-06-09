@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suneel Gokina
- I am DevOps(SRE) Engineer at TCS currently configuring on Humana's move to Microsoft Azure.
- Twitter: @Suneel_Gokina
- LinkedIn: suneelgokina
+- I am DevOps(SRE) Engineer at TCS currently configuring on Humana's move to Microsoft Azure.
+ - Twitter: @Suneel_Gokina
+ - LinkedIn: suneelgokina
 
 - 👨‍💻 What I'm working on: Migrating HUMANA over to Azure ☁
 - 🗨 How to reach me: Message me via LinkedIn or Twitter DM's
