@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @SuneelGokina
-- 👀 I’m interested in developing open source projects
-- 🌱 I’m currently learning site reliabilty engineering
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me suneelgokina@gmail.com
+- 👋 Hi, I’m Suneel Gokina
+ I am DevOps(SRE) Engineer at TCS currently configuring on Humana's move to Microsoft Azure.
+ Twitter: @Suneel_Gokina
+ LinkedIn: suneelgokina
+
+- 👨‍💻 What I'm working on: Migrating HUMANA over to Azure ☁
+- 🗨 How to reach me: Message me via LinkedIn or Twitter DM's
 
 <!---
 SuneelGokina/SuneelGokina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
